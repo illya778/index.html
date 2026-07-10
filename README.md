@@ -3,7 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>English Teacher</title>
+<title>Hello! My name is Anastasia.
+
+I help children and teenagers learn English easily, interestingly, and without fear of making mistakes.</title>
 
 <style>
 body {
