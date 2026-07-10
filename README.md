@@ -141,8 +141,8 @@ speaking and vocabulary.
 <section id="contact">
 <h2>📞 Contact</h2>
 <div class="card">
-<p>Email: example@email.com</p>
-<p>Instagram: @teacher</p>
+<p>Email: 
+
 </div>
 </section>
 
